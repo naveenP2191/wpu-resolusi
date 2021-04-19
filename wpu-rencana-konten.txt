@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
   +b
   +c
 -2,000
+*$
 -3
   +z
   +y
