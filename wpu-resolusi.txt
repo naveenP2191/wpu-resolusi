@@ -3,4 +3,4 @@ WPu RESOLUSI
 -b
 -c
 -d
--e
+-z
