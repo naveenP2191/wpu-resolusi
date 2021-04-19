@@ -2,3 +2,5 @@ WPu RESOLUSI
 -a
 -b
 -c
+-d
+-e
