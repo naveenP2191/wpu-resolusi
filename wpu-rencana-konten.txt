@@ -2,6 +2,6 @@ RENCANA KONTEN WPU
 -1
   +a
   +b
--2
+-2,000
 -3
 -4
